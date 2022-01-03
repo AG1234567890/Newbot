@@ -1,7 +1,6 @@
 {
   "name": "projects",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -23,5 +22,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AG1234567890/Newbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AG1234567890/Newbot/issues"
+  },
+  "homepage": "https://github.com/AG1234567890/Newbot#readme",
+  "description": ""
 }
